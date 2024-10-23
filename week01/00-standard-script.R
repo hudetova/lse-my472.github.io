@@ -1,5 +1,7 @@
 ## A simple R script
 
+# Example comment
+
 # Computation
 4+4
 
